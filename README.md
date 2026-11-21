@@ -1,5 +1,7 @@
 # 🤖 ChatGPT Scratch Extension
 
+**the following is made by chatgpt bc im lazy af and i cant type that much for my lazy ah hands**
+
 Bring the power of OpenAI's ChatGPT into Scratch!
 
 This extension allows you to generate AI-powered responses directly inside your Scratch projects using the OpenAI API.
@@ -78,7 +80,3 @@ Choose a license for this project before allowing others to reuse or modify it.
 ---
 
 **Made with ❤️ for the Scratch community.**
-
-this is made by chatgpt bc im lazy af and i cant type that much for my lazy ah hands
-
-Add a clearer usage exampleExplain unsandboxed extension risksAdd a license choice
